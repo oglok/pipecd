@@ -15,7 +15,7 @@ Also, with the power of plugin architecture, PipeCD can allow multi-versions of 
 
 # Detailed design
 
-At the time this RFC is writen, there was serveral issues created on PipeCD main repo for tracking the plugin architecture tasks. This RFC summarizes the decisions the maintainer team has agreed to regarding the design of the PipeCD plugin architecture.
+At the time this RFC is written, there was serveral issues created on PipeCD main repo for tracking the plugin architecture tasks. This RFC summarizes the decisions the maintainer team has agreed to regarding the design of the PipeCD plugin architecture.
 
 After this line in the documentation, pipedv1 is a mention to plugin-arch piped, while pipedv0 is a mention to up-to-now piped.
 

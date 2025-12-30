@@ -24,7 +24,7 @@ Currently, we can deploy the control plane to Kubernetes cluster, but some devel
     ### Note:
     - PipeCD gives the abstract architecture for ECS.
         - Give a [sample repository](https://github.com/pipe-cd/control-plane-aws-ecs-terraform-demo) that describes an architecture by using Terraform. 
-        - The architectures are different by each project, so create your best architecture with refering to this repository and docker-compose file.
+        - The architectures are different by each project, so create your best architecture with referring to this repository and docker-compose file.
     - They can easily use the managed database or storage system on cloud as datastore and filestore.
     
     ### Production Architecture on ECS
